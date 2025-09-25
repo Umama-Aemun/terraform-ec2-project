@@ -11,6 +11,9 @@ This project creates an EC2 instance with all necessary networking components us
 # Usage:
 
 terraform init
+
 terraform plan  
+
 terraform apply
+
 terraform destroy
